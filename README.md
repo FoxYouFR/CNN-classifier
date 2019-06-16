@@ -1,4 +1,4 @@
-# CNN-classifier
+# CaDog-CNN-classifier
 A dog or a cat? That's all it does
 
 Folder structure:
